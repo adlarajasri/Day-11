@@ -1,0 +1,8 @@
+D:\UST\Day11\MailfolderReq1\MailfolderReq2\bin\Debug\MailfolderReq2.exe.config
+D:\UST\Day11\MailfolderReq1\MailfolderReq2\bin\Debug\MailfolderReq2.exe
+D:\UST\Day11\MailfolderReq1\MailfolderReq2\bin\Debug\MailfolderReq2.pdb
+D:\UST\Day11\MailfolderReq1\MailfolderReq2\obj\Debug\MailfolderReq2.csproj.AssemblyReference.cache
+D:\UST\Day11\MailfolderReq1\MailfolderReq2\obj\Debug\MailfolderReq2.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day11\MailfolderReq1\MailfolderReq2\obj\Debug\MailfolderReq2.csproj.CoreCompileInputs.cache
+D:\UST\Day11\MailfolderReq1\MailfolderReq2\obj\Debug\MailfolderReq2.exe
+D:\UST\Day11\MailfolderReq1\MailfolderReq2\obj\Debug\MailfolderReq2.pdb
